@@ -27,3 +27,12 @@ Real-time: Stream Chat & Video
 Auth: Clerk
 
 Jobs & Monitoring: Inngest, Sentry
+
+git clone https://github.com/kumarmanoj231/slack.git
+cd slack
+
+# backend
+cd backend && npm install && npm run dev
+
+# frontend
+cd frontend && npm install && npm run dev
